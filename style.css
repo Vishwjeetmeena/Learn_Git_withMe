@@ -13,3 +13,8 @@ p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: aqua;
 }
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
